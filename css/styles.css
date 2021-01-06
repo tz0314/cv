@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #440047;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  color: #440047;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #e11d74;
+}
+
+.waving-emoji {
+  height: 25%;
+  width: 25%;
+}
+
+.top-container {
+  background-color: #fbecec;
+  position: relative;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.top-header {
+  margin-left: 150px;
+}
+
+.top-header2 {
+  margin-left: 100px;
+}
+
+.top-birds {
+  height: 180px;
+  width: 180px;
+  position: absolute;
+  right: 135px;
+  top: 50px;
+}
+
+.bottom-birds {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 200px;
+  top: 250px;
+}
+
+.beach {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.middle-container {
+
+}
+
+.profile {
+  margin-bottom: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.laptop {
+  width: 45%;
+  float: left;
+  margin-right: 30px;
+}
+
+.bottom-container {
+
+}
